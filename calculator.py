@@ -3,13 +3,13 @@ class Calculator:
         return factor1 * factor2
 
     def divide(dividend: float, divisor: float) -> float:
-        return factor1 / factor2
+        return divided / divisor
     
     def add(number1: float, number2: float) -> float:
-        return factor1 + factor2
+        return number1 + number2
     
     def subtract(minuend: float, subtrahend: float) -> float:
-        return factor1 - factor2
+        return minuend - subtrahend
     
     def power(base: float, exponent: int) -> float:
         return base ** exponent
